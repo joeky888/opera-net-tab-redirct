@@ -1,0 +1,21 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "description": "Allows you to set a custom new tab page",
+   "developer": {
+      "name": "Sanish Mistry"
+   },
+   "icons": {
+      "128": "128.png",
+      "16": "128.png",
+      "48": "128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3uM4Z3p2MlZvn9oBhx7ocgG+joAXyPcQ+NLtw2vV0HcA+XWTEg3SjzUjRQGLJDe4Q45pvdojZabw5dvo+4nsCRBizHdgH30TFJGoZ3OMrXiRGYpYUKvNTcnJwp0NbJ0ceOPMn1SShX1JdMKmLyS7YTYOg0EP+zkfJWRPGmf16GuMcAgSPj4VAJYPD+RAxh7SXqFXuDMiMdJKJ7BMdpEwAzk6o27A1Qx2Y35G3wgK/RFbbXVdYXw2Aj68mx1zF6l7wCRfnR0DfkiNrkXJzmGZVBwOt8MABNXCzn+rfF7QnllhabBcCNH729xLZy/KPswcMFytfVRHcuqSL2mfHRkbSQIDAQAB",
+   "manifest_version": 2,
+   "name": "Custom New Tab Page",
+   "options_page": "settings.htm",
+   "permissions": [ "tabs", "storage" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "1.6.1"
+}

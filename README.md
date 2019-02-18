@@ -1,0 +1,1 @@
+https://addons.opera.com/en-gb/extensions/details/custom-new-tab-page/?display=en
